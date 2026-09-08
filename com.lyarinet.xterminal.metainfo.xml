@@ -6,6 +6,10 @@
   <name>xTerminal Pro</name>
   <summary>Enterprise Multi-Protocol SSH, Serial, Telnet and DevOps Workstation</summary>
 
+  <developer id="com.lyarinet">
+    <name>LyariNet</name>
+  </developer>
+
   <description>
     <p>
       xTerminal Pro is an ultra-fast, modern, and secure terminal workstation engineered for DevOps professionals, cloud architects, sysadmins, and network engineers.
